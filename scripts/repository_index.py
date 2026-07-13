@@ -46,7 +46,7 @@ def compile_java_solutions() -> None:
             continue
         with tempfile.TemporaryDirectory() as directory:
             target = Path(directory) / "Solution.java"
-            target.write_text(source.read_text(encoding="utf-8"), encoding="utf-8")
+            target.write_text("import java.util.*;\n" + source.read_text(encoding="utf-8"), encoding="utf-8")
             result = subprocess.run(["javac", "-encoding", "UTF-8", str(target)], capture_output=True, text=True)
             if result.returncode:
                 raise SystemExit(f"{source.relative_to(ROOT)} failed to compile:\n{result.stderr}")
