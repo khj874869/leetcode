@@ -37,3 +37,15 @@ Automatically indexed Java and SQL solutions. Each solution remains in its LeetH
 | 3780 | [Maximum Sum Of Three Numbers Divisible By Three](3780-maximum-sum-of-three-numbers-divisible-by-three/) | Java |
 
 Run `python scripts/repository_index.py --check --compile` before pushing.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/khj874869/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/khj874869/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
