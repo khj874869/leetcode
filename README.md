@@ -48,4 +48,8 @@ Run `python scripts/repository_index.py --check --compile` before pushing.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khj874869/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/khj874869/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
