@@ -57,4 +57,20 @@ Run `python scripts/repository_index.py --check --compile` before pushing.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khj874869/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khj874869/leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khj874869/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khj874869/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khj874869/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
